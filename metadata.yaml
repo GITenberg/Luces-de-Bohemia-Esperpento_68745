@@ -1,0 +1,38 @@
+_repo: Luces-de-Bohemia-Esperpento_68745
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Valle-Inclán, Ramón del
+    aliases:
+    - Montenegro, Ramon Maria del Valle Inclan y
+    - Del Valle-Inclán, Ramón
+    - Inclán, Ramón del Valle
+    - Del, Valle-Inclán Ramón
+    - Valle-Inclan, Ramon del
+    - Montenegro, Ramón María del Valle Inclán y
+    birthdate: 1866
+    deathdate: 1936
+    gutenberg_agent_id: '3562'
+    url: http://www.gutenberg.org/2009/agents/3562
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Ram%C3%B3n_del_Valle-Incl%C3%A1n
+    - https://es.wikipedia.org/wiki/Ram%C3%B3n_Mar%C3%ADa_del_Valle-Incl%C3%A1n
+description: ''
+gutenberg_issued: '2022-08-14'
+identifiers:
+  gutenberg: '68745'
+language: es
+pgterms:marc904: http://bdh.bne.es/bnesearch/detalle/bdh0000200851
+pgterms:marc905: 20220522082141valleincln
+pgterms:marc906: '1924'
+pgterms:marc907: ES
+production_note: Ramón Pajares Box. (This file was produced from images generously
+  made available by Biblioteca Digital Hispánica/Biblioteca Nacional de España.)
+publication_note: Spain :Renacimiento,1924.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Luces de Bohemia: Esperpento'
+url: http://www.gutenberg.org/ebooks/68745
